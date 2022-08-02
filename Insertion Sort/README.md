@@ -43,4 +43,5 @@ Average case because 18 is in the middle of the array.
 [2,3,4,5,7,9,8,15,6]
 ```
 
+[Patika.dev](https://patika.dev)
 
