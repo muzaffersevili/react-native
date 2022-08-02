@@ -2,7 +2,7 @@
 
 ## 1) Merge Sort of   [16,21,11,8,12,22]
 
-![merge](C:\Users\muzaf\Desktop\merge.png)
+![merge](merge.png)
 
 ## 2) Big-O Notation
 
